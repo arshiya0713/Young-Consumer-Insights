@@ -59,4 +59,4 @@ Sabo, M. (2013). *Young People Survey* — collected by a Statistics class at FS
 
 ## Note on scope
 
-The dataset is a 2013 Slovak student sample, so results are a **methodological demonstration** of the "raw survey → latent needs → personas" pipeline, not a live market forecast. The same code runs unchanged on a fresh Gen-Z or Japanese consumer panel.
+The dataset is a 2013 Slovak student sample, so results are a **methodological demonstration** of the "raw survey → latent needs → personas" pipeline, not a live market forecast. 
