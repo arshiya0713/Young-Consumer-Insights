@@ -58,7 +58,3 @@ Deterministic (`RNG = 42`). Regenerates every figure and table in ~30 s.
 ## Data
 
 Sabo, M. (2013). *Young People Survey* — collected by a Statistics class at FSEV, Comenius University Bratislava; released on Kaggle. Slovak respondents aged 15–30. Used here for unsupervised insight extraction (most public analyses use it for supervised prediction).
-
-## Note on scope
-
-The dataset is a 2013 Slovak student sample, so results are a **methodological demonstration** of the "raw survey → latent needs → personas" pipeline, not a live market forecast. 
