@@ -1,0 +1,57 @@
+outcome,factor,beta,model_R2
+Finances,Highbrow Cultural Capital,0.02943795269779193,0.17447621826006898
+Finances,Fearful & Sentimental,0.03275433748868503,0.17447621826006898
+Finances,Sociable & Energetic,-0.14427592893833127,0.17447621826006898
+Finances,"Tech, Cars & Action",0.025402909253694404,0.17447621826006898
+Finances,Conscientious & Organised,0.3746390063078203,0.17447621826006898
+Finances,Pop-Culture Entertainment,-0.07518721418907001,0.17447621826006898
+Finances,Life-Science / Medical,0.06863077789338577,0.17447621826006898
+Finances,Status & Assertiveness,-0.22340969424076765,0.17447621826006898
+Shopping centres,Highbrow Cultural Capital,-0.18407423628550065,0.26391228724875937
+Shopping centres,Fearful & Sentimental,0.48450608838478615,0.26391228724875937
+Shopping centres,Sociable & Energetic,0.18266692067716495,0.26391228724875937
+Shopping centres,"Tech, Cars & Action",0.013971664333977195,0.26391228724875937
+Shopping centres,Conscientious & Organised,0.042710265479080634,0.26391228724875937
+Shopping centres,Pop-Culture Entertainment,0.1851796936816985,0.26391228724875937
+Shopping centres,Life-Science / Medical,0.051365356053028804,0.26391228724875937
+Shopping centres,Status & Assertiveness,0.30986972147281167,0.26391228724875937
+Branded clothing,Highbrow Cultural Capital,-0.18167085143276207,0.15281707306470282
+Branded clothing,Fearful & Sentimental,0.04972375658897721,0.15281707306470282
+Branded clothing,Sociable & Energetic,0.23055992829418925,0.15281707306470282
+Branded clothing,"Tech, Cars & Action",0.19780709550603376,0.15281707306470282
+Branded clothing,Conscientious & Organised,0.042899206543781127,0.15281707306470282
+Branded clothing,Pop-Culture Entertainment,0.007086916958145503,0.15281707306470282
+Branded clothing,Life-Science / Medical,-0.04933389206755696,0.15281707306470282
+Branded clothing,Status & Assertiveness,0.34233273284484445,0.15281707306470282
+Entertainment spending,Highbrow Cultural Capital,-0.03243128161815196,0.18051299653628128
+Entertainment spending,Fearful & Sentimental,-0.11865827257434103,0.18051299653628128
+Entertainment spending,Sociable & Energetic,0.28277999254769237,0.18051299653628128
+Entertainment spending,"Tech, Cars & Action",0.1300022004603948,0.18051299653628128
+Entertainment spending,Conscientious & Organised,-0.17211437698083035,0.18051299653628128
+Entertainment spending,Pop-Culture Entertainment,0.1519339610448545,0.18051299653628128
+Entertainment spending,Life-Science / Medical,-0.07811214693918955,0.18051299653628128
+Entertainment spending,Status & Assertiveness,0.27278773125384004,0.18051299653628128
+Spending on looks,Highbrow Cultural Capital,-0.14356438500938515,0.28667632287222666
+Spending on looks,Fearful & Sentimental,0.29924092045126244,0.28667632287222666
+Spending on looks,Sociable & Energetic,0.25749305117528126,0.28667632287222666
+Spending on looks,"Tech, Cars & Action",-0.010896298074319185,0.28667632287222666
+Spending on looks,Conscientious & Organised,0.01739729534775905,0.28667632287222666
+Spending on looks,Pop-Culture Entertainment,0.18725396021985535,0.28667632287222666
+Spending on looks,Life-Science / Medical,0.004945342603603742,0.28667632287222666
+Spending on looks,Status & Assertiveness,0.42740110067200465,0.28667632287222666
+Spending on gadgets,Highbrow Cultural Capital,-0.12616832051276322,0.2118414803765306
+Spending on gadgets,Fearful & Sentimental,-0.10370523802757896,0.2118414803765306
+Spending on gadgets,Sociable & Energetic,0.16628930272119377,0.2118414803765306
+Spending on gadgets,"Tech, Cars & Action",0.4457027826045674,0.2118414803765306
+Spending on gadgets,Conscientious & Organised,0.03709393399479796,0.2118414803765306
+Spending on gadgets,Pop-Culture Entertainment,0.07405486420976834,0.2118414803765306
+Spending on gadgets,Life-Science / Medical,-0.03680979985833141,0.2118414803765306
+Spending on gadgets,Status & Assertiveness,0.26934059318626286,0.2118414803765306
+Spending on healthy eating,Highbrow Cultural Capital,0.0638706827144435,0.09404238708543833
+Spending on healthy eating,Fearful & Sentimental,0.011444703188061567,0.09404238708543833
+Spending on healthy eating,Sociable & Energetic,0.16244469203118808,0.09404238708543833
+Spending on healthy eating,"Tech, Cars & Action",0.03172762345146325,0.09404238708543833
+Spending on healthy eating,Conscientious & Organised,0.22394590781549564,0.09404238708543833
+Spending on healthy eating,Pop-Culture Entertainment,0.11449945114768145,0.09404238708543833
+Spending on healthy eating,Life-Science / Medical,0.032425956371083614,0.09404238708543833
+Spending on healthy eating,Status & Assertiveness,0.1032569404523797,0.09404238708543833

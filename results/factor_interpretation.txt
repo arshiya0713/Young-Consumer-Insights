@@ -1,0 +1,80 @@
+
+=== F1  (Highbrow Cultural Capital) — 4.5% var ===
+   +0.65  Classical music
+   +0.58  Opera
+   +0.55  Swing, Jazz
+   +0.54  Art exhibitions
+   +0.49  Theatre
+   +0.49  Reading
+   +0.48  Rock n roll
+   +0.48  Folk
+
+=== F2  (Fearful & Sentimental) — 4.3% var ===
+   +0.54  Rats
+   +0.53  Snakes
+   +0.52  Romantic
+   +0.50  Shopping
+   +0.49  Storm
+   +0.46  Celebrities
+   +0.45  Dangerous dogs
+   +0.42  Life struggles
+
+=== F3  (Sociable & Energetic) — 3.9% var ===
+   +0.65  Energy levels
+   +0.56  Number of friends
+   +0.52  Happiness in life
+   -0.49  Loneliness
+   +0.49  Interests or hobbies
+   -0.47  Fear of public speaking
+   +0.46  New environment
+   +0.46  Socializing
+
+=== F4  (Tech, Cars & Action) — 3.3% var ===
+   +0.61  PC
+   +0.55  Action
+   +0.54  Cars
+   +0.48  Sci-fi
+   +0.46  Western
+   +0.45  Science and technology
+   +0.42  War
+   +0.41  Internet
+
+=== F5  (Conscientious & Organised) — 2.6% var ===
+   +0.52  Reliability
+   +0.51  Thinking ahead
+   +0.48  Workaholism
+   +0.48  Prioritising workload
+   +0.41  Writing notes
+   +0.41  Keeping promises
+   +0.37  Borrowed stuff
+   -0.32  Cheating in school
+
+=== F6  (Pop-Culture Entertainment) — 2.2% var ===
+   +0.41  Animated
+   +0.39  Fantasy/Fairy tales
+   +0.38  Rock
+   +0.38  Fun with friends
+   +0.36  Movies
+   +0.35  Music
+   +0.31  Compassion to animals
+   +0.31  Comedy
+
+=== F7  (Life-Science / Medical) — 2.1% var ===
+   +0.76  Biology
+   +0.71  Chemistry
+   +0.65  Medicine
+   +0.30  Physics
+   +0.30  Gardening
+   +0.26  Dancing
+   -0.25  Economy Management
+   -0.24  Politics
+
+=== F8  (Status & Assertiveness) — 2.0% var ===
+   +0.38  Knowing the right people
+   +0.35  Law
+   +0.35  Getting angry
+   +0.35  Politics
+   +0.33  Daily events
+   +0.33  Criminal damage
+   +0.32  Loss of interest
+   +0.29  Appearence and gestures

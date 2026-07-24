@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+factor_analyzer
+matplotlib
+seaborn
