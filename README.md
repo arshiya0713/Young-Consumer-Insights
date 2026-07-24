@@ -4,6 +4,8 @@ Turning a raw self-report survey into **latent consumer needs** — the motives 
 
 > **Motivation.** Modern marketing research aims to extract *"latent needs that even consumers themselves are not aware of yet."* That is a latent-variable problem — so this project solves it with the classical latent-variable tool: factor analysis. The battery of things people *report* is treated as the surface; the factor model recovers the hidden attitudes that generate it.
 
+> ⚠️ **This is a *methodology* project, not a market forecast.** The dataset is a real 2013 Slovak student survey — deliberately used to demonstrate the full *raw survey → latent needs → personas → spending drivers* pipeline. The code is dataset-agnostic and runs unchanged on a fresh contemporary Gen-Z / Japanese panel, which is the intended next step. Treat the specific numbers as *what the method extracts*, not as claims about today's consumers.
+
 📄 **[Full research write-up → REPORT.md](REPORT.md)**
 
 ![Latent attitudes → spending](figures/08_spending_drivers.png)
